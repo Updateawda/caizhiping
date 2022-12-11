@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PureMVC.Core.Controller" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="43.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAAAAABAAACAAAAgAAAAAEAACKQAAAABAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Core\Controller.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PureMVC.Core.Model" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAIAEAAAKQAQgEIAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Core\Model.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PureMVC.Core.View" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="45.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAgAAAAAAAAABACAEAAEIAgKQAAAAAAgAEA=</HashCode>
+      <FileName>Assets\PureMVC\Core\View.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PureMVC.Patterns.Facade" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAAIAAAAABAIAAABBBgCAAIAAAAiKQAQAEJAgCEA=</HashCode>
+      <FileName>Assets\PureMVC\Patterns\Facade.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PureMVC.Patterns.MacroCommand" Collapsed="true">
+    <Position X="26.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\PureMVC\Patterns\MacroCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PureMVC.Patterns.Mediator" Collapsed="true">
+    <Position X="32.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACQAAAAQAAAAAEAAAAAAAAgCQAEAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\PureMVC\Patterns\Mediator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PureMVC.Patterns.Notification" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="43.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAAAAAEAAABAAQAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Patterns\Notification.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PureMVC.Patterns.Notifier" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAABAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Patterns\Notifier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PureMVC.Patterns.Observer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="38.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAUAAAAACAIAAAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\PureMVC\Patterns\Observer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PureMVC.Patterns.Proxy" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIEACAAAAAAAABAUAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\PureMVC\Patterns\Proxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PureMVC.Patterns.SimpleCommand" Collapsed="true">
+    <Position X="19" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Patterns\SimpleCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OrderSystem.ApplicationFacade" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAABAAAAAAAIAAAQAAAEAAACAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\ApplicationFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.ObjectPool&lt;T&gt;" Collapsed="true">
+    <Position X="45.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAAAAAAAAAAAAAAAIAAACAAEAAAAgAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Common\ObjectPool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.StartUpCommand" Collapsed="true">
+    <Position X="22.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Controller\StartUpCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.MainUI" Collapsed="true">
+    <Position X="43.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAAAAAAAAgAAAAAAIAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\MainUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.ClientItem" Collapsed="true">
+    <Position X="38.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAgAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Client\ClientItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.ClientProxy" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAADAAAAAEQ=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Client\ClientProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.CookItem" Collapsed="true">
+    <Position X="45.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAAAAAAAAAAAEAAAAAAAAgAAEAAAEAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Cook\CookItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.CookProxy" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAABAAAAAAAAAIAAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Cook\CookProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.MenuItem" Collapsed="true">
+    <Position X="45.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAEAAAAAAAAAAAEAAAAAAAAAgAAAgA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Menu\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.MenuProxy" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACABAAAAEAAAAABAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Menu\MenuProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.Order" Collapsed="true">
+    <Position X="40" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAUAAAAAAAAAAAAAAAAAAAABAAAAoA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Menu\Order\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.OrderProxy" Collapsed="true">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Menu\Order\OrderProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.WaiterItem" Collapsed="true">
+    <Position X="38.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABAAAAAAAEAAAAAAAAAAAEAAAEAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Waiter\WaiterItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.WaiterProxy" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABACAAAAAAAEABAAAAAAAAAAAAAAAAAkA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Waiter\WaiterProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.OrderSystemEvent" Collapsed="true">
+    <Position X="43.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIKAMQAATAAAEAAAAAAABAAACAAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\OrderSystemEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.OrderCommandEvent" Collapsed="true">
+    <Position X="41.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAGAAAIAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\OrderSystemEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.ClientItemView" Collapsed="true">
+    <Position X="40" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAACAAAAAAAAAAAEAEAEAAIAAAABAAQAEQ=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\ClientView\ClientItemView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.ClientMediator" Collapsed="true">
+    <Position X="29" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAQAAAAAAAAgAAAAABAAAEAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\ClientView\ClientMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.ClientView" Collapsed="true">
+    <Position X="41.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAgBAAABQAAAgAAAAAAAAAAAABAAAAEQ=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\ClientView\ClientView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.CookItemView" Collapsed="true">
+    <Position X="38.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\CookView\CookItemView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.CookMediator" Collapsed="true">
+    <Position X="33.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAACAAAAAQAAAAAAAgAAAAAAAAAAEAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\CookView\CookMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.CookView" Collapsed="true">
+    <Position X="40" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAEDAAABAAAAAAAAAABAAAAAAAIIAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\CookView\CookView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.MenuItemView" Collapsed="true">
+    <Position X="38.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAIAAAAAAAQAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\MenuView\MenuItemView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.MenuMediator" Collapsed="true">
+    <Position X="35.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAQAAAAAAAAAAAAAAIAAAEAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\MenuView\MenuMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.MenuView" Collapsed="true">
+    <Position X="40" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAQBAQAABYAIBAAAAAAAAAAAAAAAAAAQAAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\MenuView\MenuView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.WaiterItemView" Collapsed="true">
+    <Position X="40" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\WaiterView\WaiterItemView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.WaiterMediator" Collapsed="true">
+    <Position X="31.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAQAAAAQAAAAAAQAAAAAAEAAAAAACAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\WaiterView\WaiterMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderSystem.WaiterView" Collapsed="true">
+    <Position X="41.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAIAAAgDAAAhQAAAAAAhAABAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\WaiterView\WaiterView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClientChangeStateCommand" Collapsed="true">
+    <Position X="13.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Controller\ClientChangeStateCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CookCommand" Collapsed="true">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Controller\CookCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GetAndExitOrderCommand" Collapsed="true">
+    <Position X="17.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Controller\GetAndExitOrderCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuestBeAwayCommand" Collapsed="true">
+    <Position X="20" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Controller\GuestBeAwayCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaiterCommand" Collapsed="true">
+    <Position X="24.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Controller\WaiterCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpringFramework.JsonFxHelper" Collapsed="true">
+    <Position X="41.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACCBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpringFramework\JsonFxHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PureMVC.Interfaces.ICommand">
+    <Position X="38.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.IController" Collapsed="true">
+    <Position X="40" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAABAAAAAAAAgAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.IFacade" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAABAAAAAABAgCAAIAAAAiAAAQAAIAgAEA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\IFacade.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.IMediator" Collapsed="true">
+    <Position X="41.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAQAAAAAEAAAAAAAAgCAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\IMediator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.IModel" Collapsed="true">
+    <Position X="43.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAQAAIAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\IModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.INotification" Collapsed="true">
+    <Position X="45.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAABAAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\INotification.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.INotifier" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\INotifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.IObserver" Collapsed="true">
+    <Position X="38.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAACAIAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.IProxy" Collapsed="true">
+    <Position X="40" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEACAAAAAAAABAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\IProxy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PureMVC.Interfaces.IView" Collapsed="true">
+    <Position X="41.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAgAAAAAAAAAAACAAAAAIAgAAAAAAAAgAEA=</HashCode>
+      <FileName>Assets\PureMVC\Interfaces\IView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="OrderSystem.E_ClientState" Collapsed="true">
+    <Position X="40" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEgAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Client\ClientItem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrderSystem.E_WaiterState" Collapsed="true">
+    <Position X="41.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\Model\Waiter\WaiterItem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClientState" Collapsed="true">
+    <Position X="38.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEgAAAAAAAAAAAAIAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\OrderSystem\View\ClientView\ClientItemView.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
