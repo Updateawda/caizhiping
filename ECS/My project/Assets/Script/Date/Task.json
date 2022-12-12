@@ -1,0 +1,17 @@
+﻿[
+  {
+    "name": "打怪任务",
+    "des": "清理野怪",
+    "propress": false
+  },
+  {
+    "name": "采集任务",
+    "des": "采集药品",
+    "propress": false
+  },
+  {
+    "name": "对话任务",
+    "des": "找到NPC完成委托",
+    "propress": false
+  }
+]

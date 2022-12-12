@@ -1,0 +1,34 @@
+﻿[
+  {
+    "name": "Lvbu",
+    "x": 0.0,
+    "y": 0.0,
+    "z": 1.0,
+    "path": "Assets/Resources/Role/1.prefab",
+    "type": 0
+  },
+  {
+    "name": "NPC",
+    "x": 2.0,
+    "y": 0.0,
+    "z": 0.0,
+    "path": "Assets/Resources/Role/sunshangxiang.prefab",
+    "type": 1
+  },
+  {
+    "name": "Enemy",
+    "x": -2.0,
+    "y": 0.0,
+    "z": 0.0,
+    "path": "Assets/Resources/Role/zhangfei.prefab",
+    "type": 2
+  },
+  {
+    "name": "Gather",
+    "x": 0.0,
+    "y": 0.5,
+    "z": 4.0,
+    "path": "Assets/Resources/gather.prefab",
+    "type": 3
+  }
+]
