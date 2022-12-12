@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CraetMap" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAIAqAgEAIAAIAAACAAAQACAAQBQAACQAAAAAg=</HashCode>
+      <FileName>Assets\Script\CraetMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPlayer" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAgIAQAAAAAAAIAAAAAQAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\IPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player1" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Player1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player2" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Player2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Type" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Script\CraetMap.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
